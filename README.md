@@ -1,5 +1,7 @@
 ### Minecraft Server Next Generation
 
+![2023-05-03_11 08 46](https://user-images.githubusercontent.com/65935235/235826804-8f719e9d-361b-4ca7-82a5-b266598437b0.png)
+
 #### Auchor: LingLing1301
 #### Page: https://space.bilibili.com/472148300
 #### Support: https://www.patreon.com/LingLing1301
