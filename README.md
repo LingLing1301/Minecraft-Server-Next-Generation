@@ -5,9 +5,15 @@
 #### Support: https://www.patreon.com/LingLing1301
 
 **Game List**
-1. Bedwars
-2. Skywars
-3. Murder Mystery
+1. Bedwars(Beta)
+2. Skywars(None)
+3. Murder Mystery(None)
+4. Sinkhole Duel(None)
+5. Duels(None)
+6. Blitz Survival Games(None)
+7. Hot Potato(None)
+8. Colorblind Party(None)
+9. Don't Drop(None)
 
 **Directions**
 - The "#" comment is to explain the meaning of the uplink command, not the downlink command
