@@ -100,6 +100,7 @@
 >>> team join Main @a
 >>> 
 >>> tp @a 0 302 0
+
 >> 快速開始遊戲(例如:地圖1):
 >>> /scoreboard players set bw1 time 1
 
