@@ -1,4 +1,4 @@
-### Minecraft Server Next Generation [中文](README_CN.md)|[English](README.md)
+### Minecraft Server Next Generation [中文](README_ZH-CN.md)|[English](README.md)
 
 ![2023-05-03_11 08 46](https://user-images.githubusercontent.com/65935235/235826804-8f719e9d-361b-4ca7-82a5-b266598437b0.png)
 
