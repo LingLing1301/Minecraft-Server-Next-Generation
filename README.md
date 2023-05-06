@@ -1,4 +1,4 @@
-### Minecraft Server Next Generation [中文](README_ZH-CN.md)|[English](README.md)
+### Minecraft Server Next Generation [English](README.md)|[简体中文](README_ZH-CN.md)|[繁体中文](README_ZH-TW.md)
 
 ![2023-05-03_11 08 46](https://user-images.githubusercontent.com/65935235/235826804-8f719e9d-361b-4ca7-82a5-b266598437b0.png)
 
@@ -19,7 +19,7 @@
 
 **Directions**
 - This a map, game is realized through the built-in datapack, it cannot be used directly, the server manager needs to use this map saves to create a server for others to play
-- The "#" comment is to explain the meaning of the uplink command, not the downlink command
+- Note for developers: The "#" comment is to explain the meaning of the uplink command, not the downlink command
 - The Servers/op directory contains functions available to administrators
 - The /reload command reloads datapacks
 
