@@ -21,7 +21,7 @@
 - This a map, game is realized through the built-in datapack, it cannot be used directly, the server manager needs to use this map saves to create a server for others to play
 - Note for developers: The "#" comment is to explain the meaning of the uplink command, not the downlink command
 - The Servers/op directory contains functions available to administrators
-- The /reload command reloads datapacks
+- The /reload command reloads datapacks(To avoid errors, make sure all players are in the lobby before executing commands while the game is in progress)
 
 **Development Matters**
 
