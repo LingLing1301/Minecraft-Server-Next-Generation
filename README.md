@@ -99,6 +99,7 @@ Preformance Commands
 >>> team join Main @a
 >>> 
 >>> tp @a 0 302 0
+
 >> Fast Start Game(eg: map1):
 >>> /scoreboard players set bw1 time 1
 
