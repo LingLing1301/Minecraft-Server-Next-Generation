@@ -4,7 +4,7 @@
 
 #### 作者: 凌凌1301
 #### 主页: https://space.bilibili.com/472148300
-#### 支持: https://afdian.net/a/LingLing1301?tab=feed
+#### 赞助&支持: https://afdian.net/a/LingLing1301?tab=feed
 
 **游戏列表**
 1. 起床战争(测试版*)
