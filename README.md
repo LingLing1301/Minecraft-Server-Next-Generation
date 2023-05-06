@@ -18,6 +18,7 @@
 9. Don't Drop(None)
 
 **Directions**
+- This a map, game is realized through the built-in datapack, it cannot be used directly, the server manager needs to use this map saves to create a server for others to play
 - The "#" comment is to explain the meaning of the uplink command, not the downlink command
 - The Servers/op directory contains functions available to administrators
 - The /reload command reloads datapacks
