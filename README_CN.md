@@ -1,4 +1,4 @@
-### 我的世界下一代服务器
+### 我的世界下一代服务器 [中文](README_CN.md)|[英语](README.md)
 
 ![2023-05-03_11 08 46](https://user-images.githubusercontent.com/65935235/235826804-8f719e9d-361b-4ca7-82a5-b266598437b0.png)
 
