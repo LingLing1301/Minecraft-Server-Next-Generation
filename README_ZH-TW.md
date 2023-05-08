@@ -106,3 +106,6 @@
 >>> /scoreboard players set bw1 time 1
 
 ![2023-05-05_12 46 22](https://user-images.githubusercontent.com/65935235/236385069-b294f8e1-c23c-4a09-a550-81a64cd9b9b0.png)
+
+### 支持:
+![photo_6077989155113121518_y](https://user-images.githubusercontent.com/65935235/236786597-e77dd1ff-1ebc-40ea-8b27-87cb8d56a753.jpg)
