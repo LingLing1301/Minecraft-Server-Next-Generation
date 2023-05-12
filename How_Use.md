@@ -9,7 +9,7 @@
 5. Download the Carpet mod and put it in the mods folder of the server folder
 6. Run run.cmd to start the server (maybe call it something else, it's up to you)
 
-**Its directory looks like this:**
+**Its directory looks like this(not exactly the same):**
 
 - C:\Users\Administrator\Desktop\b\world\datapacks\Servers
 - ..\b\paper-1.19.4-528.jar
