@@ -1,6 +1,6 @@
 ## English
 
-### It is recommended to use Fabric/Forge/Quilt or Vanilla Server:
+### It is recommended to use [Fabric](https://fabricmc.net/use/server/)/[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)/[Quilt](https://quiltmc.org/en/install/server/) or [Vanilla](https://www.minecraft.net/en-us/download/server) Server:
 
 1. You need to perform basic operations to start the server(eg: set Eula to True, etc.)
 2. Unzip and copy or cut all files in the folder
