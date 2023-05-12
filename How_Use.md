@@ -3,7 +3,7 @@
 ### It is recommended to use [Fabric](https://fabricmc.net/use/server/)/[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)/[Quilt](https://quiltmc.org/en/install/server/) or [Vanilla](https://www.minecraft.net/en-us/download/server) Server:
 
 1. You need to [perform basic operations](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server) to start the server(eg: set Eula to True, etc.)
-2. Un7zip and copy or cut all files in the folder
+2. Un7zip and copy or cut all files in the folder(It is necessary)
 3. Delete all files in the world folder in the server directory
 4. Paste the copied content into the world folder
 5. Download the [Carpet mod](https://modrinth.com/mod/carpet) and put it in the mods folder of the server folder
@@ -22,7 +22,6 @@
 **If you see this error, please ignore it↓**
 - **This is because there is no Carpet mod, so some functions report an error, just ignore it:**
 <img width="865" alt="WindowsTerminal_094k3vQeDo" src="https://github.com/LingLing1301/Minecraft-Server-Next-Generation/assets/65935235/c888409b-96ac-445a-9920-e11f923acbe1">
-
 
 ### If using another server:
 
