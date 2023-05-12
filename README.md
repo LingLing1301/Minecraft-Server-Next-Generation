@@ -5,7 +5,7 @@
 #### Auchor: LingLing1301
 #### Page: https://space.bilibili.com/472148300
 #### Support: https://www.patreon.com/LingLing1301
-#### SUpport#2: https://afdian.net/a/LingLing1301?tab=feed
+#### Support#2: https://afdian.net/a/LingLing1301?tab=feed
 
 **Game List**
 1. Bedwars(Beta)
