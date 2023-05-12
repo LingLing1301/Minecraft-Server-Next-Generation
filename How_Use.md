@@ -22,7 +22,7 @@
 <img width="865" alt="WindowsTerminal_094k3vQeDo" src="https://github.com/LingLing1301/Minecraft-Server-Next-Generation/assets/65935235/c888409b-96ac-445a-9920-e11f923acbe1">
 
 
-### If using another server:**
+### If using another server:
 
 **Paper/Spigot/Bukkit/Velocity:**
 
