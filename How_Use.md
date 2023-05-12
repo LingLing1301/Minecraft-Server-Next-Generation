@@ -16,7 +16,7 @@
 - ..\b\mods\fabric-carpet-1.19.4-1.4.101+v230319.jar
 - ..\b\world\level.dat
 
-**Make sure: `function-permission-level=4` in _<u>server.properties</u>_**
+**Make sure: `function-permission-level=4` in <u>_server.properties_</u>**
 - **[If you don't know what this is](https://minecraft.fandom.com/wiki/Server.properties)**
 
 **If you see this error, please ignore it↓**
