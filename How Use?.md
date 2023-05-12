@@ -1,6 +1,6 @@
 ## English
 
-### It is recommended to use Fabric/Forge or Vanilla server:
+### It is recommended to use Fabric/Forge/Quilt or Vanilla server:
 
 1. You need to perform basic operations to start the server(eg: set Eula to True, etc.)
 2. Unzip and copy or cut all files in the folder
