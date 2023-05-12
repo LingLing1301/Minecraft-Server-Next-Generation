@@ -15,6 +15,8 @@
 - ..\b\paper-1.19.4-528.jar
 - ..\b\mods\fabric-carpet-1.19.4-1.4.101+v230319.jar
 - ..\b\world\level.dat
+- ..\b\world\dimensions\m\bw
+- ..\b\world\region
 
 **Make sure: `function-permission-level=4` in [_server.properties_](https://minecraft.fandom.com/wiki/Server.properties)**
 
