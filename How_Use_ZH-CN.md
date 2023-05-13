@@ -28,7 +28,7 @@
 
 **[Paper](https://papermc.io/downloads/paper)/[Folia](https://papermc.io/software/folia)/[Spigot](https://getbukkit.org/download/spigot)/[CraftBukkit](https://getbukkit.org/download/craftbukkit)/[Velocity](https://papermc.io/downloads/velocity)/[Waterfall](https://papermc.io/downloads/waterfall):**
 
-**_注意: 对于这些服务端, [Minecraft-Server-Next-Generation](README.md)的支持不是很好,但你可以尝试使用它_**
+**_注意: 对于这些服务端, [Minecraft-Server-Next-Generation](README_ZH-CN.md)的支持不是很好,但你可以尝试使用它_**
 
 1. 进行[上述操作的1-4步骤](#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8)
 2. 备份并删除world文件夹内的DIM1,DIM-1和dimensions文件夹
