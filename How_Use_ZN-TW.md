@@ -7,7 +7,7 @@
 3. 刪除服務端所在文件夾內的world文件夾內的全部文件
 4. 把複製的文件粘貼到world文件夾
 5. 下載[Carpet mod](https://modrinth.com/mod/carpet)模組,然後放到服務端文件夾中的mods文件夾 (不必須)
-6. 運行run.cmd來啟動服務器(也許叫其他名字,這取決於你)
+6. 運行run.cmd來啟動伺服器(也許叫其他名字,這取決於你)
 
 **它的目錄應該是這樣的(不完全相同):**
 
@@ -32,10 +32,10 @@
 
 1. 進行[上述操作的1-4步驟](#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8)
 2. 備份並刪除world文件夾內的DIM1,DIM-1和dimensions文件夾
-3. 啟動服務器
-4. 關閉服務器,複製`..§aMinecraft Server Next Generation\dimensions\m\bw`中的文件,替換`..\b\world_m_bw\dimensions\m\bw`中的文件
+3. 啟動伺服器
+4. 關閉伺服器,複製`..§aMinecraft Server Next Generation\dimensions\m\bw`中的文件,替換`..\b\world_m_bw\dimensions\m\bw`中的文件
 5. 以此類推,需要重複此操作複製替換所有存檔文件夾中`..\dimensions\m`中的所有文件夾,複製替換到服務端目錄中類似`..\world_m_main\dimensions\m\main`的文件夹
-6. 啟動服務器
+6. 啟動伺服器
 
 
 
