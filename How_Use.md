@@ -26,7 +26,7 @@
 
 ### If using another server:
 
-**Paper/Folia/Spigot/CraftBukkit/Velocity/Waterfall:**
+**[Paper](https://papermc.io/downloads/paper)/[Folia](https://papermc.io/software/folia)/[Spigot](https://getbukkit.org/download/spigot)/[CraftBukkit](https://getbukkit.org/download/craftbukkit)/[Velocity](https://papermc.io/downloads/velocity)/[Waterfall](https://papermc.io/downloads/waterfall):**
 
 **_NOTE: For these servers, Minecraft-Server-Next-Generation does not support well, you can try the following to use_**
 
