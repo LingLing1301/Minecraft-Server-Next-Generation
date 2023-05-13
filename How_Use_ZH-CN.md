@@ -30,7 +30,7 @@
 
 **_注意: 对于这些服务端, [Minecraft-Server-Next-Generation](README.md)的支持不是很好,但你可以尝试使用它_**
 
-1. 进行[上述操作的1-4步骤](##推荐使用)
+1. 进行[上述操作的1-4步骤](#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8)
 2. 备份并删除world文件夹内的DIM1,DIM-1和dimensions文件夹
 3. 启动服务器
 4. 关闭服务器,复制`..§aMinecraft Server Next Generation\dimensions\m\bw`中的文件,替换`..\b\world_m_bw\dimensions\m\bw`中的文件
