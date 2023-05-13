@@ -30,7 +30,7 @@
 
 **_NOTE: For these servers, [Minecraft-Server-Next-Generation](README.md) does not support well, you can try the following to use_**
 
-1. Perform [1-4 steps of the above operation](#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8)
+1. Perform [1-4 steps of the above operation](#how-use)
 5. Back up and delete the DIM1, DIM-1 and dimensions folders
 6. Run the server
 7. Shut down the server and copy the `..§aMinecraft Server Next Generation\dimensions\m\bw` folder to replace the `..\b\world_m_bw\dimensions\m\bw` folder
