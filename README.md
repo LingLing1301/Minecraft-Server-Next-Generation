@@ -23,7 +23,7 @@
 - Note for developers: The "#" comment is to explain the meaning of the uplink command, not the downlink command
 - The Servers/op directory contains functions available to administrators
 - The /reload command reloads datapacks(To avoid errors, make sure all players are in the lobby before executing commands while the game is in progress)
-- This project will never support 1.19.4 and previous versions, such as: 1.19.3\1.18.2\1.16.5\1.12.2\1.8.9, etc.
+- This project will never support 1.19.3 and previous versions, such as: 1.19.2\1.18.2\1.16.5\1.12.2\1.8.9, etc.
 
 **Development Matters**
 
