@@ -18,7 +18,7 @@
 - ..\b\world\dimensions\m\bw
 - ..\b\world\region
 
-**确保:[_server.properties_](https://minecraft.fandom.com/wiki/Server.properties)中的`function-permission-level=4`**
+**确保: [_server.properties_](https://minecraft.fandom.com/wiki/Server.properties)中的`function-permission-level=4`**
 
 **如果看到此报错,请忽略它↓**
 - **这是因为没有Carpet模组导致的,这会导致部分函数无法使用,可以忽略它:**
