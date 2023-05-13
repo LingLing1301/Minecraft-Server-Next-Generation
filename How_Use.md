@@ -26,10 +26,19 @@
 
 ### If using another server:
 
-**Paper/Spigot/Bukkit/Velocity:**
+**Paper/Folia/Spigot/CraftBukkit/Velocity/Waterfall:**
 
-None
+**_NOTE: For these servers, Minecraft-Server-Next-Generation does not support well, you can try the following to use_**
 
+1. You need to [perform basic operations](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server) to start the server(eg: set Eula to True, etc.)
+2. Un7zip and copy or cut all files in the folder (It is necessary)
+3. Delete all files in the world folder in the server directory
+4. Paste the copied content into the world folder
+5. Back up and delete the DIM1, DIM-1 and dimensions folders
+6. Run the server
+7. Shut down the server and copy the `..§aMinecraft Server Next Generation\dimensions\m\bw` folder to replace the `..\b\world_m_bw\dimensions\m\bw` folder
+8. By analogy, you need to repeat this operation to copy and replace the dimensions folder in `..\dimensions\m` in all archive folders, and replace similar to the server folder`..\world_m_main\dimensions\m\main`folder
+9. Run the server
 
 
 
