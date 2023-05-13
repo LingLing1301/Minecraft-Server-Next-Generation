@@ -28,7 +28,7 @@
 
 **[Paper](https://papermc.io/downloads/paper)/[Folia](https://papermc.io/software/folia)/[Spigot](https://getbukkit.org/download/spigot)/[CraftBukkit](https://getbukkit.org/download/craftbukkit)/[Velocity](https://papermc.io/downloads/velocity)/[Waterfall](https://papermc.io/downloads/waterfall):**
 
-**_NOTE: For these servers, Minecraft-Server-Next-Generation does not support well, you can try the following to use_**
+**_NOTE: For these servers, [Minecraft-Server-Next-Generation](README.md) does not support well, you can try the following to use_**
 
 1. You need to [perform basic operations](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server) to start the server(eg: set Eula to True, etc.)
 2. Un7zip and copy or cut all files in the folder (It is necessary)
