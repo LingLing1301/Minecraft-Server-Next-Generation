@@ -1,4 +1,4 @@
-## English
+## How Use?
 
 ### It is recommended to use [Fabric](https://fabricmc.net/use/server/)/[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)/[Quilt](https://quiltmc.org/en/install/server/) or [Vanilla](https://www.minecraft.net/en-us/download/server) Server:
 
