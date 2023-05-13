@@ -6,7 +6,7 @@
 2. Un7zip and copy or cut all files in the folder (It is necessary)
 3. Delete all files in the world folder in the server directory
 4. Paste the copied content into the world folder
-5. Download the [Carpet mod](https://modrinth.com/mod/carpet) and put it in the mods folder of the server folder
+5. Download the [Carpet mod](https://modrinth.com/mod/carpet) and put it in the mods folder of the server folder (optional)
 6. Run run.cmd to start the server (maybe call it something else, it's up to you)
 
 **Its directory looks like this(not exactly the same):**
