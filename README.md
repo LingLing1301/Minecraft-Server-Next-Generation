@@ -9,7 +9,7 @@
 
 **Game List**
 1. Bedwars(Beta)
-2. Skywars(None)
+2. Skywars(Beta)
 3. Murder Mystery(None)
 4. Sinkhole Duel(None)
 5. Duels(None)
