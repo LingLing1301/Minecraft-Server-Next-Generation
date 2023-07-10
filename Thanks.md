@@ -1,6 +1,5 @@
 **Special thanks**
 
-- https://minecraft.tools/en/
 - https://www.gamergeeks.net/apps/minecraft
 - https://space.bilibili.com/472148300
 - https://misode.github.io/generators/
