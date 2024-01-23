@@ -108,6 +108,5 @@ Preformance Commands
 ![2023-05-05_12 46 22](https://user-images.githubusercontent.com/65935235/236385069-b294f8e1-c23c-4a09-a550-81a64cd9b9b0.png)
 
 ### Support:
-![photo_6077989155113121518_y](https://user-images.githubusercontent.com/65935235/236786404-54543168-0579-449e-9faa-4ecbf79e7509.jpg)
 
 ETH: 0x5904BC65bC831203C625907C1fa91b030E10f550
