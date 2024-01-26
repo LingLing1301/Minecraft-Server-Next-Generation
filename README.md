@@ -60,8 +60,8 @@ Preformance Commands
 
 ![2023-04-29_23 08 03](https://user-images.githubusercontent.com/65935235/235310518-758914ab-5888-491d-8ff8-44cc215a649f.png)
 
->> Fast Start Game(eg: map1):
->>> /scoreboard players set bw1 time 1
+> Fast Start Game(eg: map1):
+> /scoreboard players set bw1 time 1
 
 ![2023-05-05_12 46 22](https://user-images.githubusercontent.com/65935235/236385069-b294f8e1-c23c-4a09-a550-81a64cd9b9b0.png)
 
