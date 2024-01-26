@@ -1,14 +1,13 @@
-### Minecraft Server Next Generation(Java 1.20.1-1.21.4) [English](README.md) | [简体中文](README_ZH-CN.md) | [繁体中文](README_ZH-TW.md)
+### Minecraft Server Next Generation(Java 1.20.4-1.21.4)
 
 ![2023-05-03_11 08 46](https://user-images.githubusercontent.com/65935235/235826804-8f719e9d-361b-4ca7-82a5-b266598437b0.png)
 
-#### Auchor: LingLing1301
-#### Page: https://space.bilibili.com/472148300
+#### Page: [Youtube](https://www.youtube.com/@lingling1301)
 #### Support: https://www.patreon.com/LingLing1301
 #### Support#2: https://afdian.net/a/LingLing1301?tab=feed
 
 **Game List**
-1. Bedwars(Beta)
+1. Bedwars(Stable)
 2. Skywars(Beta)
 3. Murder Mystery(None)
 4. Sinkhole Duel(None)
@@ -19,11 +18,10 @@
 9. Don't Drop(None)
 
 **Directions**
-- This a map, game is realized through the built-in datapack, it cannot be used directly, the server manager needs to use this map saves to create a server for others to play
-- Note for developers: The "#" comment is to explain the meaning of the uplink command, not the downlink command
-- The Servers/op directory contains functions available to administrators
-- The /reload command reloads datapacks(To avoid errors, make sure all players are in the lobby before executing commands while the game is in progress)
-- This project will never support 1.19.3 and previous versions, such as: 1.19.2\1.18.2\1.16.5\1.12.2\1.8.9, etc.
+- This a map, game is realized through the built-in datapack, cant be used directly, server owner needs to use this map to create server for others to play
+- For Developer: Admin directory contains functions available to admins
+- The /reload command reloads datapacks(make sure all players are in lobby before executing commands or quit game, otherwise u need restart)
+- This project will never support 1.20.3 and previous versions, such as: 1.19.2\1.18.2\1.16.5\1.12.2\1.8.9, etc.
 
 **Development Matters**
 
@@ -61,46 +59,6 @@ Number of Lower Commands
 Preformance Commands
 
 ![2023-04-29_23 08 03](https://user-images.githubusercontent.com/65935235/235310518-758914ab-5888-491d-8ff8-44cc215a649f.png)
-
-**Bedwars Document**
-
-> Shop:
-> 
->> Tools:
->> 
->>> I Level Tool: Wooden Pickaxe and axe, Shears
->>> 
->>> II Level Tool: Stone Pickaxe and axe, Shears. Efficiency I.
->>> 
->>> III Level Tool: Iron Pickaxe and axe, Shears. Efficiency II.
->>> 
->>> IV Level Tool: Golden Pickaxe and axe, Shears. Efficiency III.
->>> 
->>> V Level Tool: Diamond Pickaxe and axe, Shears. Efficiency IV.
->>> 
->>> VI Level Tool: Netherite Pickaxe and axe, Shears. Efficiency V.
->>> 
->>> VII Level Tool: Netherite Pickaxe and axe, Shears. Efficiency VII.
->>> 
->>> VIII Level Tool: Netherite Pickaxe and axe, Shears. Efficiency VII and Haste III.
-
->> Trap:
->> 
->>> I Level Trap: Speed II 10s and Regeneration II 10s for You. Warning System.
->>> 
->>> II Level Trap: I Level Trap, Mining Fatigue I 10s for foe. Warning System.
->>> 
->>> III Level Trap: II Level Trap, Blindness II 20s and Nausea II 20s for foe. Warning System.
->>> 
->>> IV Level Trap: III Level Trap, Weakness II 30s and Slownness III 30s and Mining Fatigue II 30s for foe. Absorption I 10s for you. Warning System.
-
->> Test Map 1 Workability:
->> 
->>> function s:admin/test
->>> 
->>> team join Main @a
->>> 
->>> tp @a 0 302 0
 
 >> Fast Start Game(eg: map1):
 >>> /scoreboard players set bw1 time 1
