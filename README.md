@@ -9,7 +9,7 @@
 **Game List**
 1. Bedwars(Stable)
 2. Skywars(Beta)
-3. Murder Mystery(None)
+3. Murder Mystery(Beta)
 4. Sinkhole Duel(None)
 5. Duels(None)
 6. Blitz Survival Games(None)
@@ -64,6 +64,8 @@ Preformance Commands
 > /scoreboard players set bw1 time 1
 
 ![2023-05-05_12 46 22](https://user-images.githubusercontent.com/65935235/236385069-b294f8e1-c23c-4a09-a550-81a64cd9b9b0.png)
+
+Minimum system requirements: 4GB RAM, 4 Cores, 16Mbps
 
 ### Support:
 
