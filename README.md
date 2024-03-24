@@ -1,10 +1,9 @@
-### Minecraft Server Next Generation(Java 1.20.4-1.21.4)
+### Minecraft Server Next Generation(Java 1.20.4+)
 
 ![2023-05-03_11 08 46](https://user-images.githubusercontent.com/65935235/235826804-8f719e9d-361b-4ca7-82a5-b266598437b0.png)
 
 #### Page: [Youtube](https://www.youtube.com/@lingling1301)
 #### Support: https://www.patreon.com/LingLing1301
-#### Support#2: https://afdian.net/a/LingLing1301?tab=feed
 
 **Game List**
 1. Bedwars(Stable)
@@ -22,6 +21,9 @@
 - For Developer: Admin directory contains functions available to admins
 - The /reload command reloads datapacks(make sure all players are in lobby before executing commands or quit game, otherwise u need restart)
 - This project will never support 1.20.3 and previous versions, such as: 1.19.2\1.18.2\1.16.5\1.12.2\1.8.9, etc.
+
+**Update frequency**
+i'll update when minecraft have new release version or just update every year at least 5 times
 
 **Development Matters**
 
@@ -67,6 +69,8 @@ Preformance Commands
 
 Minimum system requirements: 4GB RAM, 4 Cores, 16Mbps
 
-### Support:
+### Donate:
 
 ETH: 0x5904BC65bC831203C625907C1fa91b030E10f550
+TRON: TCHDS9RFMTG4TkaQbckeWCwyKHyJjnufAZ
+BTC: bc1qwwluzxy0gd5822qzmvyxsaksa52zdr60gpzugh
