@@ -71,6 +71,6 @@ Minimum system requirements: 4GB RAM, 4 Cores, 16Mbps
 
 ### Donate:
 
-ETH: 0x5904BC65bC831203C625907C1fa91b030E10f550
-TRON: TCHDS9RFMTG4TkaQbckeWCwyKHyJjnufAZ
-BTC: bc1qwwluzxy0gd5822qzmvyxsaksa52zdr60gpzugh
+- ETH: 0x5904BC65bC831203C625907C1fa91b030E10f550
+- TRON: TCHDS9RFMTG4TkaQbckeWCwyKHyJjnufAZ
+- BTC: bc1qwwluzxy0gd5822qzmvyxsaksa52zdr60gpzugh
